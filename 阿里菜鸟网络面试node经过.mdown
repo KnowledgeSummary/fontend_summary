@@ -1,7 +1,9 @@
-[toc]
+[TOC]
+
 # 阿里菜鸟网络面试题
 
 ## 最近一年主要是用的技术？
+
 > react vue docker
 
 ## koa和express的区别？
@@ -11,6 +13,7 @@
 ## 去到过回调陷阱吗， 是怎么解决的？ 哪些是支持es6的
 
 > 可以使用promise 或async 也可以使用 generator 函数， promise 和 generator 是es6 支持的 
+
 ## es6 处理回调的方案 怎么实现的
 
 > promise 和 generator 是es6 支持的 
