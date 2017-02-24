@@ -1,0 +1,23 @@
+[top]
+# 阿里菜鸟网络面试题
+## 最近一年主要是用的技术？
+> react vue docker
+## koa和express的区别？
+> 主要区别在函数的回调方法 koa使用的是 generator 函数的形式 express 使用的是callback的形式
+## 去到过回调陷阱吗， 是怎么解决的？ 哪些是支持es6的
+> 可以使用promise 或async 也可以使用 generator 函数， promise 和 generator 是es6 支持的 
+## es6 处理回调的方案 怎么实现的
+> promise 和 generator 是es6 支持的 
+## spa (single page application ) 渲染机制
+> (有待查找)
+## 平时使用什么数据库
+> mongodb redis
+## mongodb 有什么特点， 为什么要用mongodb
+>
+## redis 有什么特点, mongodb 和 redis 有什么不同
+
+## 服务器端透出resutful api 怎么管理 如何服用接口
+
+## 浏览器怎么处理跨域
+
+## 在项目中服务治理
