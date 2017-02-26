@@ -19,3 +19,5 @@ function require() {
   return module.exports 
 }
 ```
+# 如果 a.js require 了 b.js, 那么在 b 中定义全局变量 t = 111 能否在 a 中直接打印出来?
+[nodejs模块问题](https://github.com/ElemeFE/node-interview/blob/master/sections/module.md#q-loop)
