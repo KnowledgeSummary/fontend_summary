@@ -7,3 +7,6 @@
         * 2.给div添加border
         * 3.再创建一个bfc环境，原理文档里面有解决方案
     * demo地址：double_margin.html
+    
+# CSS实现垂直居中的5种方法
+ * [实现垂直居中的5种方法](https://www.qianduan.net/css-to-achieve-the-vertical-center-of-the-five-kinds-of-methods/)
