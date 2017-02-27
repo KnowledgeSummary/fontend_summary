@@ -5,3 +5,6 @@
     
 # 从输入 URL 到页面加载完成的过程中都发生了什么
 [http://www.tuicool.com/articles/V7JN32Z](http://www.tuicool.com/articles/V7JN32Z)
+
+# 浅析JS中的模块规范（CommonJS，AMD，CMD）
+[http://www.2cto.com/kf/201411/348276.html](http://www.2cto.com/kf/201411/348276.html)
